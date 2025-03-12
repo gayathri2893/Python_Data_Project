@@ -109,7 +109,7 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Analysts in the US](3_Project\Images\Skills_Trend.png)
+![Trending Top Skills for Data Analysts in the US](3_Project/Images/skill_demand_all_data_roles.png)
 
 
 ## Insights
