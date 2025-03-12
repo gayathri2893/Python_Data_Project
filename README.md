@@ -82,7 +82,7 @@ plt.show()
 
 ### Results
 
-![Visualization of Top Skills](3_Project\Images\skill_demand_all_data_roles.png)
+![Visualization of Top Skills](https://github.com/gayathri2893/Python_Data_Project/blob/main/3_Project/Images/skill_demand_all_data_roles.png)
 
 ## Insights
 
@@ -109,7 +109,7 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Analysts in the US](https://github.com/gayathri2893/Python_Data_Project/blob/main/3_Project/Images/skill_demand_all_data_roles.png)
+![Trending Top Skills for Data Analysts in the US](https://github.com/gayathri2893/Python_Data_Project/blob/main/3_Project/Images/Skills_Trend.png)
 
 
 ## Insights
@@ -135,7 +135,7 @@ plt.show()
 
 ### Results
 
-![Salary Distributions of Data Jobs in the US](3_Project\Images\salary_analysis.png)
+![Salary Distributions of Data Jobs in the US](https://github.com/gayathri2893/Python_Data_Project/blob/main/3_Project/Images/salary_analysis.png)
 
 
 ## Insights
@@ -158,7 +158,7 @@ fig, ax = plt.subplots(2, 1)
 # Top 10 Highest Paid Skills for Data Analysts
 sns.barplot(data=df_DA_top_pay, x='median', y=df_DA_top_pay.index, hue='median', ax=ax[0], palette='dark:b_r')
 
-# Top 10 Most In-Demand Skills for Data Analystsr')
+# Top 10 Most In-Demand Skills for Data Analystsr'
 sns.barplot(data=df_DA_skills, x='median', y=df_DA_skills.index, hue='median', ax=ax[1], palette='light:b')
 
 plt.show()
@@ -167,7 +167,7 @@ plt.show()
 
 ### Results
 
-![Salary Distributions of Data Jobs in the US](3_Project\Images\salary_analysis_1.png)
+![Salary Distributions of Data Jobs in the US](https://github.com/gayathri2893/Python_Data_Project/blob/main/3_Project/Images/salary_analysis_1.png)
 
 
 ## Insights
@@ -194,7 +194,7 @@ plt.show()
 
 ### Results
 
-![Most Optimal Skills for Data Analysts in the US](3_Project\Images\optimal_skills_1.png)
+![Most Optimal Skills for Data Analysts in the US](https://github.com/gayathri2893/Python_Data_Project/blob/main/3_Project/Images/optimal_skills_1.png)
 
 ## Insights
 
@@ -228,7 +228,7 @@ plt.show()
 
 ### Results
 
-![Most Optimal Skills for Data Analysts in the US](3_Project\Images\optimal_skills.png)
+![Most Optimal Skills for Data Analysts in the US](https://github.com/gayathri2893/Python_Data_Project/blob/main/3_Project/Images/optimal_skills.png)
 
 ## Insights
 
