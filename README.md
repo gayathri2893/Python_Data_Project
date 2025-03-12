@@ -123,6 +123,7 @@ plt.show()
 
 # Visualize Data
 
+
 ```python 
 
 sns.boxplot(data=df_US_top6, x='salary_year_avg', y='job_title_short', order=job_order)
